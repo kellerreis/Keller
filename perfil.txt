@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-batatinha 123
-=======
-Pagina de perfil
->>>>>>> keller
